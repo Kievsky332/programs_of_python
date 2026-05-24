@@ -6,7 +6,7 @@ memory = [{"role": "system","content": prompt},]
 
 print('Ты можешь спросить у нейрохама что-тоо. \n\n Для выхода напиши "e"')
 
-inputs = input('>>> ')
+inputs = input('\n\n>>> ')
 
 while inputs !='e':
     memory.append({"role": "user", "content": inputs})
@@ -26,7 +26,7 @@ while inputs !='e':
     memory.append({"role": "assistant", "content": completion.choices[0].message.content})
 
     print("\n Ответ: "+completion.choices[0].message.content)
-    inputs = input('>>> ')
+    inputs = input('\n\n>>> ')
 
 
 print("\n\n\nКонтекст\n")
