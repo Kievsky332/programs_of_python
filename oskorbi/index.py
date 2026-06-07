@@ -16,7 +16,7 @@ while inputs !='e':
     )
     completion = client.chat.completions.create(
     extra_body={},
-    model='openrouter/owl-alpha',
+    model='openrouter/free',
     messages= memory
     )
 
