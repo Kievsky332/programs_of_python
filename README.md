@@ -1,8 +1,12 @@
 # programs_of_python
 
 
-# pip install -r requirements.txt
-## Для установки требований, сначала зайдите в папку
+# Для установки всех модулей рекомендуем использовать 
+
+```python
+pip install -r requirements.txt
+```
+
 
 
 ##  Pass igra.
