@@ -46,7 +46,7 @@
    ```
 2. Перейдите в папку проекта:
     ```bash
-    cd BuSsite
+    cd programs_of_python
     ```
 3. Установите зависимости
     ```bash
