@@ -44,18 +44,17 @@
    ```bash
    git clone https://github.com/Kievsky332/programs_of_python.git
    ```
-2. Перейдите в папку проекта:
+2. Перейдите в папку проектов:
     ```bash
     cd programs_of_python
     ```
-3. Установите зависимости
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Выберите проект.
+3. Выберите проект.
     ```bash
       cd (add_hours ИЛИ nuclear ИЛИ oskorbi ИЛИ pass_igra)
+    ```
+4. Установите зависимости
+    ```bash
+    pip install -r requirements.txt
     ```
 5. Запустите выбранные проект
     ```bash
