@@ -50,7 +50,7 @@
     ```
 3. Выберите проект.
     ```bash
-      cd (add_hours ИЛИ nuclear ИЛИ oskorbi ИЛИ pass_igra)
+    cd (add_hours ИЛИ nuclear ИЛИ oskorbi ИЛИ pass_igra)
     ```
 4. Установите зависимости
     ```bash
